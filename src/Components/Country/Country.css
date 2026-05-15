@@ -1,0 +1,20 @@
+.country{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+h2{
+    color: black;
+    font-weight: bolder;
+}
+
+h3, h4{
+    color: brown ;
+}
+
+p{
+    margin-top: 5px;
+    color: black;
+}
